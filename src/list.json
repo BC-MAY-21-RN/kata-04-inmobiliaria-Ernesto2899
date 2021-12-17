@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Future House",
+        "address": "1600 Pennsylvania Avenue NW, Washington",
+        "rooms": "1",
+        "bathrooms": "2",
+        "feets": "500 ft",
+        "price": "$680/m",
+        "ratings": "4.9",
+        "img": "https://dcc-studios.com/wp-content/uploads/2015/06/home-future-home-design-unique-house-design-ideas-1024x577.jpg"
+    },
+    {
+        "name": "Ex-Hacienda",
+        "address": "1600 Pennsylvania Avenue NW, Washington",
+        "rooms": "1",
+        "bathrooms": "2",
+        "feets": "500 ft",
+        "price": "$420/m",
+        "ratings": "5.0",
+        "img": "https://travesiasdigital.com/wp-content/uploads/2019/04/hacienda-de-san-antonio-comala-colima-fachada.jpg"
+    },
+    {
+        "name": "Chapu",
+        "address": "1600 Pennsylvania Avenue NW, Washington",
+        "rooms": "2",
+        "bathrooms": "3",
+        "feets": "500 ft",
+        "price": "$690/m",
+        "ratings": "5.0",
+        "img": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/eb/6b/56.jpg"
+    },
+    {
+        "name": "Gotham",
+        "address": "1600 Pennsylvania Avenue NW, Washington",
+        "rooms": "2",
+        "bathrooms": "3",
+        "feets": "500 ft",
+        "price": "$115/m",
+        "ratings": "4.3",
+        "img": "https://i.pinimg.com/550x/a7/b4/8b/a7b48b9a884f3f953a0144c8db93d911.jpg"
+    },
+    {
+        "name": "Tulum",
+        "address": "1600 Pennsylvania Avenue NW, Washington",
+        "rooms": "3",
+        "bathrooms": "2",
+        "feets": "500 ft",
+        "price": "$666/m",
+        "ratings": "5.0",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/19/60/41/d1/hotel-ma-xanab-tulum.jpg"
+    }
+   
+]
